@@ -1,6 +1,10 @@
-.teamfierBigIcon {
+.t01BigIcon {
     font-size: 3em;
 }
+
+.t01centered {
+    text-align: center;
+}   
 
 .rafeTest {
     color: rgb(200,50,50);
