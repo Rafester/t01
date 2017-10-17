@@ -6,6 +6,12 @@
     text-align: center;
 }   
 
+.t01centeredH1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+} 
+
 .rafeTest {
     color: rgb(200,50,50);
     background-color: yellow;
