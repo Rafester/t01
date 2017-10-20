@@ -18,9 +18,6 @@
 }
 
 #t01menuColor {
-    color: grey;
+    color: white;
 }
 
-a:visited#t01menuColor { 
-    color: green; 
-}
