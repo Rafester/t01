@@ -17,6 +17,6 @@
     background-color: yellow;
 }
 
-.t01menuColor {
+a:link.t01menuColor {
     color: grey;
 }
