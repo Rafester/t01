@@ -20,3 +20,7 @@
 #t01menuColor {
     color: grey;
 }
+
+a:visited#t01menuColor { 
+    color: green; 
+}
