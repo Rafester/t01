@@ -1,5 +1,5 @@
 .t01BigIcon {
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .t01centered {
@@ -8,8 +8,8 @@
 
 .t01centeredH1 {
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 2%;
+    margin-bottom: 2%;
 } 
 
 .rafeTest {
@@ -22,7 +22,7 @@
 }
 
 #t01menuHeight {
-    padding-top: 30px;
+    padding-top: 3%;
 }
 
 .t01ribbon {
